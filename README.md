@@ -6,7 +6,7 @@ This uses C++ and raylib. Retro with a little modern twist (kinda).
 
 It keeps score and even comes with sounds!
 
-[!][Retro Snake Game - Animated gif demo](Assets/snakedemo.gif)
+![Retro Snake Game - Animated gif demo](Assets/snakedemo.gif)
 
 Gif image is sped up.
 
